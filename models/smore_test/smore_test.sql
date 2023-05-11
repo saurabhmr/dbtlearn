@@ -1,0 +1,1 @@
+select * from smore_test
